@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;font-size: 14px;
+
+}
+
+h1{
+font-size: 2em;
+color: darkgreen;
+}
+
+h2{
+    color: green;
+}
+
+#tituloPrincipal{
+    background-color: darkgreen; 
+    color: white;
+    text-align: center
+}
+
+.Acaraje{
+    text-align: right
+}
+
+.topico{ 
+    text-align: center
+}
+
+.okok{
+    color: red
+}
+
+.demon{
+        text-align: justify   
+}

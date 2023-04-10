@@ -1,0 +1,20 @@
+table{
+    border: solid;
+    width: 300px;
+    border-color: green;
+}
+th{
+    background-color: mediumseagreen;
+    border: none;
+    color: white;
+    
+    
+}
+.enter{
+    background-color: rgb(168, 168, 168);
+    color: green;
+    text-align: center;
+}
+td{
+    text-align: center;
+}

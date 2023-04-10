@@ -1,0 +1,14 @@
+table{
+    border: 1px solid black; /*Borda*/
+   width: 500px;  /*Largura*/
+    height: 250px; /*Altura*/
+    /*border-collapse: collapse; /*Fará com que as bordas colapsem em uma única borda*/
+    border: none;
+}
+
+td{
+    border: 1px solid black;
+    background-color: #96D4D4;
+    border-radius: 10px;
+    border-style: ridge;
+}
